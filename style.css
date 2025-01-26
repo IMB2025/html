@@ -1,14 +1,4 @@
 body{
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	font-size: 25px;
-	letter-spacing: 2px;
-	word-spacing: 2px;
-	color: #000000;
-	font-weight: normal;
-	text-decoration: none;
-	font-style: normal;
-	font-variant: normal;
-	text-transform: capitalize;
 	background: #2863CE;
 	background: -moz-radial-gradient(center, #2863CE, #B9B9B9);
 	background: -webkit-radial-gradient(center, #2863CE, #B9B9B9);
@@ -19,27 +9,27 @@ body{
 h1{
 	color: #000000;
 	text-shadow:0 0 2px blue;
-	font-family: Comic Sans MS, arial;
+	font-family: Cursive, arial;
 	font-weight: 700;
 }
 
 h2{
 	color: #000000;
 	text-shadow:0 0 2px blue;
-	font-family: Comic Sans MS, arial;
+	font-family: Cursive, arial;
 	font-weight: 700;
 }
 
 h3{
 	color: #000000;
 	text-shadow:0 0 2px blue;
-	font-family: Comic Sans MS, arial;
+	font-family: Cursive, arial;
 	font-weight: 700;
 }
 
 p{
 	color: #000000;
-	text-shadow:0 0 0px black;
+	text-shadow:0 0 0px blue;
 	font-family: times new roman, arial;
 }
 
