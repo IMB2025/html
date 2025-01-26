@@ -2,7 +2,7 @@ body{
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	font-size: 25px;
 	letter-spacing: 1px;
-	word-spacing: 1.5px;
+	word-spacing: 1px;
 	color: #000000;
 	font-weight: normal;
 	text-decoration: none;
@@ -40,7 +40,7 @@ h3{
 p{
 	color: #000000;
 	text-shadow:0 0 0px blue;
-	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-family: Bradley Hand, cursive;
 	font-weight: 400;
 }
 
