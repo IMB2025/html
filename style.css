@@ -1,3 +1,4 @@
+/* Body section is used to style over all font, background and boarder format */
 body{
 	font-size: 25px;
 	letter-spacing: 1px;
@@ -16,6 +17,7 @@ body{
 	border-radius: 27px;
 }
 
+/* h1-h4 is used to style the headers text, text color, shadow, shadow color and font */
 h1{
 	color: #000000;
 	text-shadow:0 0 2px blue;
@@ -44,6 +46,7 @@ h4{
 	font-weight: 700;
 }
 
+/* p is used to style the paragraphs text, text color, shadow, shadow color and font */
 p{
 	color: #000000;
 	text-shadow:0 0 0px blue;
@@ -51,6 +54,7 @@ p{
 	font-weight: 400;
 }
 
+/* changes the color for a visted link*/
 a:visited{
 	color: aqua;
 }
