@@ -13,6 +13,8 @@ body{
 	background: -webkit-radial-gradient(center, #2863CE, #B9B9B9);
 	background: radial-gradient(ellipse at center, #2863CE, #B9B9B9);
 	border: 4px inset #607de6;
+	-webkit-box-shadow: 0px 0px 17px 11px #073EB0; 
+	box-shadow: 0px 0px 17px 11px #073EB0;
 }
 
 h1{
