@@ -9,21 +9,21 @@ body{
 h1{
 	color: #000000;
 	text-shadow:0 0 2px blue;
-	font-family: Cursive, arial;
+	font-family: Comic Sans MS, Comic Sans, cursive;
 	font-weight: 700;
 }
 
 h2{
 	color: #000000;
 	text-shadow:0 0 2px blue;
-	font-family: Cursive, arial;
+	font-family: Comic Sans MS, Comic Sans, cursive;
 	font-weight: 700;
 }
 
 h3{
 	color: #000000;
 	text-shadow:0 0 2px blue;
-	font-family: Cursive, arial;
+	font-family: Comic Sans MS, Comic Sans, cursive;
 	font-weight: 700;
 }
 
@@ -31,6 +31,7 @@ p{
 	color: #000000;
 	text-shadow:0 0 0px blue;
 	font-family: times new roman, arial;
+	font-weight: 400;
 }
 
 a:visited{
