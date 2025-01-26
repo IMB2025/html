@@ -1,0 +1,45 @@
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 25px;
+	letter-spacing: 2px;
+	word-spacing: 2px;
+	color: #000000;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: capitalize;
+	background: #2863CE;
+	background: -moz-radial-gradient(center, #2863CE, #B9B9B9);
+	background: -webkit-radial-gradient(center, #2863CE, #B9B9B9);
+	background: radial-gradient(ellipse at center, #2863CE, #B9B9B9);
+	border: 4px inset #607de6;
+}
+
+h1{
+	color: #00eeff;
+	text-shadow:0 0 2px aqua;
+	font-family: times new roman, arial;
+}
+
+h2{
+	color: #000fff;
+	text-shadow:0 0 2px blue;
+	font-family: times new roman, arial;
+}
+
+h3{
+	color: #ffbbbb;
+	text-shadow:0 0 2px blue;
+	font-family: times new roman, arial;
+}
+
+p{
+	color: #00bbbb;
+	text-shadow:0 0 2px purple;
+	font-family: times new roman, arial;
+}
+
+a:visited{
+	color: aqua;
+}
