@@ -12,8 +12,8 @@ body{
 	background: -moz-radial-gradient(center, #2863CE, #B9B9B9);
 	background: -webkit-radial-gradient(center, #2863CE, #B9B9B9);
 	background: radial-gradient(ellipse at center, #2863CE, #B9B9B9);
-	border-right: 9px outset #248CD1;
-	border-radius: 40px 40px 40px 40px;
+	border: 15px ridge #1C08A4;
+	border-radius: 27px;
 
 }
 
