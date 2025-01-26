@@ -17,25 +17,25 @@ body{
 }
 
 h1{
-	color: #00eeff;
+	color: #000000;
 	text-shadow:0 0 2px aqua;
 	font-family: times new roman, arial;
 }
 
 h2{
-	color: #000fff;
+	color: #000000;
 	text-shadow:0 0 2px blue;
 	font-family: times new roman, arial;
 }
 
 h3{
-	color: #ffbbbb;
+	color: #000000;
 	text-shadow:0 0 2px blue;
 	font-family: times new roman, arial;
 }
 
 p{
-	color: #00bbbb;
+	color: #000000;
 	text-shadow:0 0 2px purple;
 	font-family: times new roman, arial;
 }
