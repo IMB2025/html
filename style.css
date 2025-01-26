@@ -19,28 +19,35 @@ body{
 h1{
 	color: #000000;
 	text-shadow:0 0 2px blue;
-	font-family: "Comic Sans MS", Comic Sans, cursive;
+	font-family:"Comic Sans MS", "Comic Sans", cursive;
 	font-weight: 700;
 }
 
 h2{
 	color: #000000;
-	text-shadow:0 0 2px blue;
-	font-family: "Comic Sans MS", Comic Sans, cursive;
+	text-shadow:0 0 2px green;
+	font-family:"Comic Sans MS", "Comic Sans", cursive;
 	font-weight: 700;
 }
 
 h3{
 	color: #000000;
-	text-shadow:0 0 2px blue;
-	font-family: "Comic Sans MS", Comic Sans, cursive;
+	text-shadow:0 0 2px red;
+	font-family:"Comic Sans MS", "Comic Sans", cursive;
+	font-weight: 700;
+}
+
+h4{
+	color: #000000;
+	text-shadow:0 0 2px black;
+	font-family:"Comic Sans MS", "Comic Sans", cursive;
 	font-weight: 700;
 }
 
 p{
 	color: #000000;
 	text-shadow:0 0 0px blue;
-	font-family: Arial Narrow, sans-serif;
+	font-family:"Arial Narrow", sans-serif;
 	font-weight: 400;
 }
 
